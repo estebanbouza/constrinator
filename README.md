@@ -30,6 +30,8 @@ Run the command line tool `constrinator` and pass the list of org constraints yo
 Example:
 
 ```
+ $ constrinator list --target-constraints constraints/compute.requireOsLogin --root-resource folders/121941704308
+
 Analyzing folder folders/121941704308 Policy Playground
 ├  Analyzing folder folders/418059633406 Level 1 - Blue
 ├  ├  Analyzing folder folders/102762894607 Level 2 - Banana
